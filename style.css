@@ -1,0 +1,60 @@
+#Titre {
+	color: #464444;
+	font-size: 250%;
+}
+
+.soustitres {
+	color: #605757;
+	text-decoration: none;
+}
+
+#link {
+	color:	darkcyan;
+	text-decoration: none;
+	font-size: 150%;
+}
+
+#link:hover {
+	color: darkblue;
+}
+
+.div {
+	background-color: lightgrey;
+	width: 70%;
+	border-radius: 15px;
+	box-shadow: 5px 5px 6px darkslategrey;
+	padding: 1%;
+	margin: 2%;
+}
+
+.div:hover{
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#presentation {
+	font-size: 130%;
+}
+
+#rond {
+	border-radius: 200px;
+}
+
+body {
+	background-color: #B586BD;
+}
+
+
+input.qcm:hover{
+	background-color:  #616161;
+	transition: 0.1s;
+}
+
+h3 {
+	color: #120017;
+}
+
+.logo {
+	margin: 2%;
+	border-radius: 15px;
+}
